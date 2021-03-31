@@ -1,7 +1,8 @@
 # Desafio Componentizando a aplicação
 Desafio do Ignite Trilha ReactJS da Rocketseat.
 
-# WatchMe 
+ # :tv: WatchMe
+ 
 ![NPM](https://github.com/ThalesFreitas/Ignite-Desafio-02-ReactJS-Chapter-I/blob/main/LICENSE) 
 
 # Sobre o desafio
