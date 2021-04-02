@@ -17,7 +17,7 @@ Para resolver esse desafio, eu utilizei o gerenciamento de estado Redux, a fim d
 Sidebar(Onde fica os gêneros) com o componente Content(Listagem de filmes).
 
 ## Layout
-![Ação](https://github.com/ThalesFreitas/Ignite-Desafio-02-ReactJS-Chapter-I/blob/main/assets/g%C3%AAneros.gif)
+![Gêneros](https://github.com/ThalesFreitas/Ignite-Desafio-02-ReactJS-Chapter-I/blob/main/assets/g%C3%AAneros.gif)
 
 
 # Tecnologias utilizadas
